@@ -20,15 +20,15 @@ namespace UnitTest.Controllers
             string name;
             if (empId == 1)
             {
-                name = "Jignesh";
+                name = "Suman";
             }
             else if (empId == 2)
             {
-                name = "Rakesh";
+                name = "Nirajan";
             }
             else
             {
-                name = "Not Found";
+                name = "Error";
             }
             return name;
         }

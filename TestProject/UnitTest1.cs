@@ -17,19 +17,19 @@ namespace Tests
         {
             HomeController home = new HomeController();
             string result = home.GetEmployeeName(1);
-            Assert.AreEqual("Jignesh", result);
+            Assert.AreEqual("Suman", result);
         }
         [Test]
         public void Test2()
         {
             HomeController home = new HomeController();
             string result = home.GetEmployeeName(1);
-            Assert.AreEqual("Rakesh", result);
+            Assert.AreEqual("Nirajan", result);
         }
 
-        [TestCase(1, "Jignesh")]
-        [TestCase(2, "Rakeshsfsdf")]
-        [TestCase(3, "Not Found")]
+        [TestCase(1, "Suman")]
+        [TestCase(2, "Nirajan")]  
+        [TestCase(3, "Error")]
         public void Test3(int empId, string name)
         {
             HomeController home = new HomeController();
