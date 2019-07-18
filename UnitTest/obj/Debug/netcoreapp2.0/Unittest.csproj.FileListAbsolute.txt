@@ -1,0 +1,11 @@
+D:\SUMAN!\@\ut\Unittest\bin\Debug\netcoreapp2.0\Unittest.deps.json
+D:\SUMAN!\@\ut\Unittest\bin\Debug\netcoreapp2.0\Unittest.runtimeconfig.json
+D:\SUMAN!\@\ut\Unittest\bin\Debug\netcoreapp2.0\Unittest.runtimeconfig.dev.json
+D:\SUMAN!\@\ut\Unittest\bin\Debug\netcoreapp2.0\Unittest.dll
+D:\SUMAN!\@\ut\Unittest\bin\Debug\netcoreapp2.0\Unittest.pdb
+D:\SUMAN!\@\ut\Unittest\obj\Debug\netcoreapp2.0\Unittest.csprojAssemblyReference.cache
+D:\SUMAN!\@\ut\Unittest\obj\Debug\netcoreapp2.0\Unittest.csproj.CoreCompileInputs.cache
+D:\SUMAN!\@\ut\Unittest\obj\Debug\netcoreapp2.0\Unittest.AssemblyInfoInputs.cache
+D:\SUMAN!\@\ut\Unittest\obj\Debug\netcoreapp2.0\Unittest.AssemblyInfo.cs
+D:\SUMAN!\@\ut\Unittest\obj\Debug\netcoreapp2.0\Unittest.dll
+D:\SUMAN!\@\ut\Unittest\obj\Debug\netcoreapp2.0\Unittest.pdb

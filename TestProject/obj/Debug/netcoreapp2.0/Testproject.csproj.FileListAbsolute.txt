@@ -1,0 +1,17 @@
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\Testproject.deps.json
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\Testproject.runtimeconfig.json
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\Testproject.runtimeconfig.dev.json
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\Testproject.dll
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\Testproject.pdb
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\Unittest.dll
+D:\SUMAN!\@\ut\TestProject\bin\Debug\netcoreapp2.0\Unittest.pdb
+D:\SUMAN!\@\ut\TestProject\obj\Debug\netcoreapp2.0\Testproject.csprojAssemblyReference.cache
+D:\SUMAN!\@\ut\TestProject\obj\Debug\netcoreapp2.0\Testproject.csproj.CoreCompileInputs.cache
+D:\SUMAN!\@\ut\TestProject\obj\Debug\netcoreapp2.0\Testproject.AssemblyInfoInputs.cache
+D:\SUMAN!\@\ut\TestProject\obj\Debug\netcoreapp2.0\Testproject.AssemblyInfo.cs
+D:\SUMAN!\@\ut\TestProject\obj\Debug\netcoreapp2.0\Testproject.csproj.CopyComplete
+D:\SUMAN!\@\ut\TestProject\obj\Debug\netcoreapp2.0\Testproject.dll
+D:\SUMAN!\@\ut\TestProject\obj\Debug\netcoreapp2.0\Testproject.pdb
